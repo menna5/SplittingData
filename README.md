@@ -1,4 +1,4 @@
-# SplittingData
+# Splitting Data
 This code is for splitting data from one folder to train, test, and val folders
 There are three files
 
@@ -8,7 +8,7 @@ This code results in data that can be used for a model to classify if the cell i
 #### PreprocessByProbs.ipynb
 This code results in data that can be used for a model to classify if the cell is defective or not
 
-#### Splitting
+#### Splitting.ipynb
 This code is for any general similar problem
 
 Used data is images for solar cell images
